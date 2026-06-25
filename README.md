@@ -79,5 +79,3 @@ I started in **engineering**: I designed, built, and shipped production **Java/S
 <p align="center">
   <i>🌐 See the full story at <a href="https://singhalpooja.com">singhalpooja.com</a></i>
 </p>
-
-<!-- profile -->
