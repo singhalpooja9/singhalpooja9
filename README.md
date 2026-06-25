@@ -1,14 +1,23 @@
 <h1 align="center">Hi, I'm Pooja Singhal 👋</h1>
 
 <p align="center">
-  <b>Senior Technical Program Manager</b> · AI/ML &amp; Platform Programs<br/>
-  Turning ambiguous, cross-org initiatives into roadmaps, governance, and shipped outcomes.
+  <a href="https://singhalpooja.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Senior+Technical+Program+Manager;AI%2FML+Program+Delivery;Ex-Software+Engineer+(Java%2FSpring);Force+multiplier+for+VP-level+leadership" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>AI/ML &amp; Platform Programs</b> · Turning ambiguous, cross-org initiatives into roadmaps, governance, and shipped outcomes.
 </p>
 
 <p align="center">
   <a href="https://singhalpooja.com"><img src="https://img.shields.io/badge/Portfolio-singhalpooja.com-5eead4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/singhalpooja9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:singhal.pooja9@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-fbbf77?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhalpooja9&color=5eead4&style=flat-square&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
