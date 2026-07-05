@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://singhalpooja.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Senior+Technical+Program+Manager;AI%2FML+Program+Delivery;Ex-Software+Engineer+(Java%2FSpring);Force+multiplier+for+VP-level+leadership" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Senior+Technical+Program+Manager;AI%2FML+Program+Delivery;Agentic+AI+%2B+LLM+evaluation;Ex-Software+Engineer+(Java%2FSpring)" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -24,9 +24,9 @@
 
 ### 🚀 About me
 
-I'm a Senior Technical Program Manager with **11+ years** driving large-scale technology programs at **Twilio**, **Affirm**, and **Amazon**. My specialty is building the *operating model* — the roadmap, governance, cadences, and decision frameworks — that lets many teams move as one in regulated, real-time, high-stakes environments.
+I'm a Senior Technical Program Manager with **11+ years** driving large-scale technology programs at **Twilio**, **Affirm**, and **Amazon**. My specialty is building the operating model — roadmap, governance, cadences, and decision frameworks — that lets many teams move as one in regulated, real-time, high-stakes environments.
 
-I started in **engineering**: I designed, built, and shipped production **Java/Spring** applications and REST APIs at IBM and Adobe. That hands-on foundation is why I can run ML evaluations and architecture sign-offs credibly — and why engineers trust me in the room.
+I started in **engineering**: I designed, built, and shipped production **Java/Spring** applications and REST APIs at IBM and Adobe. That hands-on foundation is why I run ML evaluations and architecture sign-offs myself, not by proxy.
 
 - 🤖 Currently leading **Conversational AI** programs at Twilio (real-time AI/ML platform, 50K+ daily sessions)
 - 🧠 Deep focus on **AI/ML program delivery** — model eval frameworks, vendor POCs, phased rollouts
@@ -39,8 +39,8 @@ I started in **engineering**: I designed, built, and shipped production **Java/S
 
 | | |
 |---|---|
-| 💰 **~$2B** GMV enabled at peak scale (zero critical incidents) | 🎯 **88%** ML model accuracy delivered (+28% vs. legacy) |
-| ⚡ **77%** fewer false interruptions (VAD models) | 📉 **$12M** infra cost optimization, 6 weeks early |
+| 💰 **~$2B** GMV enabled at peak scale (zero critical incidents) | 🎯 **88%** ML accuracy validated, **<5%** false positives (+28% vs. legacy) |
+| ⚡ **77%** fewer false interruptions in live calls | 📉 **$12M** infra cost optimization, 6 weeks early |
 | 🏥 **2.5 months** ahead on Amazon Pharmacy launch | 🔧 **70%** faster compliance issue resolution |
 
 ---
@@ -64,6 +64,15 @@ I started in **engineering**: I designed, built, and shipped production **Java/S
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+### 🧪 The Lab
+
+Independent, open-source builds — the same evaluation and delivery discipline I bring to AI/ML programs, worked end to end on synthetic data, with tests. Separate from my employer's programs.
+
+- **[JobFitJudge](https://github.com/singhalpooja9/JobFitJudge)** — a calibrated LLM-as-judge for job-fit scoring. Measures whether the judge can be trusted (precision, recall, false-positive rate + inter-rater agreement with confidence intervals, against red-team cases) before it filters anything.  `Claude Agent SDK` · `LiteLLM` · `promptfoo` · `pytest`
+- **[JobScannerMCP](https://github.com/singhalpooja9/JobScannerMCP)** — one MCP server, driven unchanged from both Claude and Goose. Typed tools, a dry-run guardrail with no send path, and protocol-level tests.  `FastMCP` · `MCP` · `Goose`
 
 ---
 
